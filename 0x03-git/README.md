@@ -1,1 +1,1 @@
-#we are inside 0x03-git directory
+0x03. Git project
